@@ -1,6 +1,6 @@
 # Credit Card Fraud Detection Project
 ## Project Image
-![Credit Card Fraud Detection](images/Capture.png)
+![Credit Card Fraud Detection](Capture.png)
 
 ## Overview
 This project aims to detect fraudulent credit card transactions using machine learning. The dataset used is the Credit Card Fraud Dataset, and the model is built using LightGBM (LGB) classifier. The process involves data cleaning, handling class imbalance, feature engineering, and model evaluation.
