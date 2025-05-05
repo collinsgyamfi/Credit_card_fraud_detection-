@@ -64,7 +64,8 @@ The dataset used for this project can be found at [Kaggle Credit Card Fraud Dete
 ## ROC Curve
 ![ROC curve](ROCcurve.PNG)
 ## Top 5 importance of Image
-![Top 5](top10featuresimportance.PNG)
+![ROC curve](https://raw.githubusercontent.com/collinsgyamfi/Credit_card_fraud_detection/main/ROC_curve.PNG)
+
 
 ### 8. Saving the Model
 - Save the trained model using `joblib` for future use.
