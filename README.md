@@ -62,9 +62,9 @@ The dataset used for this project can be found at [Kaggle Credit Card Fraud Dete
 - Evaluate the model using ROC curves and calculate feature importance to identify the top 10 features contributing to the model's predictions.
 
 ## ROC Curve
-![ROC curve](ROCcurve.PNG)
+![ROCcurve](ROCcurve.PNG)
 ## Top 5 importance of Image
-![ROC curve](https://raw.githubusercontent.com/collinsgyamfi/Credit_card_fraud_detection/main/ROC_curve.PNG)
+![top10featuresimportance](top10featuresimportance.PNG)
 
 
 ### 8. Saving the Model
